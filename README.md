@@ -1,1 +1,1 @@
-# Soft_Eng
+A library management system that helps libraries manage their circulation of books, data of books and resources, as well as the user’s data, making it easy for the librarian or the staff to manage and access the information efficiently.
